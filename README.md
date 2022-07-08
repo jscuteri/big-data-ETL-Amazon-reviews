@@ -18,4 +18,4 @@
 
 **Load the Data into SQL File**
 
-![Screen Shot 2022-03-22 at 9 48 46 PM](https://user-images.githubusercontent.com/87212158/159605723-fa740c1b-6279-483d-b2c1-2c53c63e305c.png)
+<img width="738" alt="Screen Shot 2022-07-08 at 11 29 13 AM" src="https://user-images.githubusercontent.com/87212158/178023488-1e13b1eb-6098-4b21-b8e3-4b992723da35.png">
